@@ -21,9 +21,10 @@ h2 {
     width: 40%;
 }
 
-#kayo {
+
+/* #kayo {
     text-align: center;
-}
+} */
 
 .KC {
     display: block;
@@ -48,4 +49,8 @@ footer>span {
     justify-content: center;
     font-size: 0.9em;
     color: #fff;
+}
+
+ul {
+    list-style-position: inside;
 }
