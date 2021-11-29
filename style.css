@@ -4,7 +4,7 @@ nav {
 
 h1 {
     color: aquamarine;
-    background-color: grey;
+    background-color: rgb(128, 128, 128);
     text-align: center;
 }
 
@@ -20,11 +20,6 @@ h2 {
     margin-right: auto;
     width: 40%;
 }
-
-
-/* #kayo {
-    text-align: center;
-} */
 
 .KC {
     display: block;
