@@ -1,0 +1,51 @@
+nav {
+    text-align: right;
+}
+
+h1 {
+    color: aquamarine;
+    background-color: grey;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+    text-align: left
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#kayo {
+    text-align: center;
+}
+
+.KC {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40;
+}
+
+h3 {
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: grey;
+}
+
+footer>span {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 0.9em;
+    color: #fff;
+}
